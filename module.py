@@ -4,7 +4,7 @@
   "metadata": {
     "colab": {
       "provenance": [],
-      "authorship_tag": "ABX9TyOqAB5km29Zzd+Ka44H5uop",
+      "authorship_tag": "ABX9TyMBkjlN4Wmv5Z+DqZ8GfdSo",
       "include_colab_link": true
     },
     "kernelspec": {
@@ -28,7 +28,7 @@
     },
     {
       "cell_type": "code",
-      "execution_count": 7,
+      "execution_count": null,
       "metadata": {
         "id": "-ds7XW_E12d4"
       },
@@ -43,25 +43,8 @@
         "  print (m*n)\n",
         "  m-=1\n",
         "  return\n",
-        "  def donothing():\n",
-        "    print(\"doing nothing \")\n",
-        "    return\n",
         "\n"
       ]
-    },
-    {
-      "cell_type": "code",
-      "source": [
-        "  #with open('my_module.py', 'w') as f:\n",
-        "   # f.write('''def greet(name):\n",
-        "       # return f\"Hello, {name}!\"\n",
-        "   # ''')"
-      ],
-      "metadata": {
-        "id": "03OxWa2o7Gfx"
-      },
-      "execution_count": null,
-      "outputs": []
     }
   ]
 }
